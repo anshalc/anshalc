@@ -35,4 +35,4 @@ I am an energetic and ambitious third-year undergraduate student majoring in Dat
 <br />
 <br />
 
-<img align = "left" alt="Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshalc&layout=compact&hide_border=true" />
+<img align = "left" alt="Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshalc&layout=compact&?hide=Jupyter Notebook&hide_border=true" />
