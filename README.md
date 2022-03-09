@@ -33,5 +33,6 @@ I am an energetic and ambitious third-year undergraduate student majoring in Dat
 <img align = "left" alt="Anshal's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=anshalc&show_icons=true&hide_border=true" />
 
 <br />
+<br />
 
 <img align = "left" alt="Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshalc&layout=compact&hide_border=true" />
